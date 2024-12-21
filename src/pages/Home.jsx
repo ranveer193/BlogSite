@@ -18,7 +18,7 @@ function Home() {
     if (posts.length === 0) {
         return (
             <Container>
-                <h1>No posts available</h1>
+                <h1>Please Login First!</h1>
             </Container>
         )
     }
